@@ -1,0 +1,17 @@
+{
+  "git_revision": "5b118ea785a58835e9f7cd30dfbe9096ca780f62",
+  "artifacts": {
+    "installer": {
+      "filename": "ncTracer-2026.05.r1-5b118ea-Win64-VS2022.exe",
+      "size": 1990894,
+      "timestamp": "2026-05-13T01:05:07Z",
+      "sha256": "9c2e4dc0c2ba2b638c8f86f62394cdd04ac3393a1be80e0fe3561a26f1b5066b"
+    },
+    "portable": {
+      "filename": "ncTracer-2026.05.r1-5b118ea-Win64-VS2022.zip",
+      "size": 2264945,
+      "timestamp": "2026-05-13T01:05:08Z",
+      "sha256": "1fc4498be84003a80cfd0ede17c1039bc1f2641c81d50d13b566262a0aa246e7"
+    }
+  }
+}
